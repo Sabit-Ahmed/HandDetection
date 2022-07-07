@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+**/*.pyc
+**/.DS_Store
+**/.idea
+**/.ipynb_checkpoints
+**/saved_model
