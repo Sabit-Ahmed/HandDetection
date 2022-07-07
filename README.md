@@ -1,4 +1,4 @@
-# SSD on CPU using subset of Egohands Dataset
+# SSD on CPU using Coco Hand, Ego Hand and TV-Hand Datasets
 
 This is a hands detector that uses different models (i.e. SSD_mobilenet_v2_fpn_320, centernet_mobilenet_v2_fpn_512, centernet_resnet_v2_fpn_512, etc.) 
 trained on different datasets (i.e. coco hand, ego hand, tv hand datasets etc.).
