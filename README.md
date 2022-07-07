@@ -15,7 +15,7 @@ and OpenCV 4 (tested on OpenCV 4.2.1)
 # Live Hand Detection only
 **python3 webcam_detect_hands.py**
     
-![out1](https://user-images.githubusercontent.com/46225891/110107527-e845e200-7da2-11eb-80a0-e9f9ec74a756.gif)
+![out1](https://github.com/Sabit-Ahmed/HandDetection/blob/master/HandDetection.gif)
 
 
 TODO: Put camera frame reading and processing into multi-threading
