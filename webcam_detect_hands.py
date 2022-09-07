@@ -13,7 +13,7 @@ from utils import label_map_util
 # Only tested for tensorflow 2.4.1, opencv 4.5.1
 
 # Model information
-MODEL_NAME = 'efficientdet_d2'
+MODEL_NAME = 'efficientdet_d0'
 PATH_TO_SAVED_MODEL = os.path.join(os.getcwd(), 'model_data_hagrid', MODEL_NAME, 'saved_model')
 PATH_TO_LABELS = os.path.join(os.getcwd(), 'model_data_hagrid', MODEL_NAME, 'label_map.pbtxt')
 
